@@ -1,0 +1,5 @@
+解压整个 ZIP 后，用浏览器打开 index.html。
+请将 index.html 和 assets 文件夹放在一起。无需联网或安装软件。
+
+Extract the entire ZIP, then open index.html in your browser.
+Keep index.html and the assets folder together. No server or internet connection is required.
