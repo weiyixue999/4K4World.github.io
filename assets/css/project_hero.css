@@ -10,3 +10,5 @@
 .author-notes{display:flex;flex-wrap:wrap;align-items:baseline;column-gap:20px;row-gap:5px}.author-notes span{white-space:nowrap}
 
 .project-tldr p strong{font-size:inherit;letter-spacing:normal;color:var(--ink);font-weight:750}
+
+.project-links a{display:inline-flex;align-items:center;justify-content:center;min-width:132px;padding:10px 24px;border:1px solid #9cae9f;border-radius:8px;background:transparent;color:var(--ink);font-size:14px;font-weight:600;text-decoration:none;box-sizing:border-box}.project-links a:hover{background:var(--soft)}@media(max-width:520px){.project-links a{flex:1;min-width:0}}
